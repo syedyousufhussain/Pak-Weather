@@ -1,16 +1,4 @@
 # pak_weather
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![WhatsApp Image 2023-09-23 at 2 09 30 PM (1)](https://github.com/syedyousufhussain/Pak-Weather/assets/51918818/97d9ca4a-dc57-4bc6-a21a-f5da2ae87243)
+![WhatsApp Image 2023-09-23 at 2 09 30 PM](https://github.com/syedyousufhussain/Pak-Weather/assets/51918818/365c8fe3-d105-4c67-ab5b-a7009f63e0cd)
